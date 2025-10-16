@@ -1,5 +1,5 @@
 //your code here
-const priceElements = document.querySelectorAll('[data-ns-test="prices"]');
+const priceElements = document.querySelectorAll('[data-ns-test="price"]');
 
 let total = 0;
 
